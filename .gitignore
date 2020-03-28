@@ -6,7 +6,7 @@
 codigosTeste/*
 codigosTeste/
 *.DS_Store*
-
+ 
 Python
 build/
 develop-eggs/
